@@ -256,7 +256,7 @@ My goal is to design intelligent systems capable of perceiving, understanding an
   
   I'm always interested in collaborating on robotics and IoT projects!
   
-  💼 LinkedIn: [yehia-elkh](https://www.linkedin.com/in/yahya-elkhoulati-535580331/)
+  💼 LinkedIn: [YAHYA ELKHOULATI      ](https://www.linkedin.com/in/yahya-elkhoulati-535580331/)
   
   📧 Email: yahyaelkhoulati@ump.ac.ma
 
