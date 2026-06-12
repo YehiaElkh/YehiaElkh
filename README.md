@@ -99,9 +99,7 @@ print(me.say_hello())
 
 ## 🏆 Featured Projects
 
-<details open>
-<summary><b>🐢 turtle_navigation — ROS 2 Navigation Algorithms</b></summary>
-<br>
+### 🐢 turtle_navigation — ROS 2 Navigation Algorithms
 
 > Autonomous navigation algorithms implemented on TurtleSim using ROS 2
 
@@ -117,13 +115,9 @@ print(me.say_hello())
 [![Repo](https://img.shields.io/badge/GitHub-turtle__navigation-181717?style=for-the-badge&logo=github)](https://github.com/YehiaElkh/turtle_navigation)
 ![Stars](https://img.shields.io/github/stars/YehiaElkh/turtle_navigation?style=for-the-badge&color=yellow)
 
-</details>
-
 ---
 
-<details open>
-<summary><b>🌀 APF_Obstacle_Avoidance_ROS2 — Real-time Obstacle Avoidance</b></summary>
-<br>
+### 🌀 APF_Obstacle_Avoidance_ROS2 — Real-time Obstacle Avoidance
 
 > Real-time obstacle avoidance using Artificial Potential Fields in a simulated environment
 
@@ -136,13 +130,9 @@ print(me.say_hello())
 
 [![Repo](https://img.shields.io/badge/GitHub-APF__Obstacle__Avoidance-181717?style=for-the-badge&logo=github)](https://github.com/YehiaElkh/APF_Obstacle_Avoidance_ROS2)
 
-</details>
-
 ---
 
-<details open>
-<summary><b>📚 ros2_yehia_learning — Complete ROS 2 Learning Repository</b></summary>
-<br>
+### 📚 ros2_yehia_learning — Complete ROS 2 Learning Repository
 
 > A structured journey through ROS 2 fundamentals — C++ and Python side by side
 
@@ -158,13 +148,9 @@ print(me.say_hello())
 ![Stars](https://img.shields.io/github/stars/YehiaElkh/ros2_yehia_learning?style=for-the-badge&color=yellow)
 ![Forks](https://img.shields.io/github/forks/YehiaElkh/ros2_yehia_learning?style=for-the-badge&color=blue)
 
-</details>
-
 ---
 
-<details>
-<summary><b>🚗 Robot-Evite-Obstacle — Autonomous RC Car</b></summary>
-<br>
+### 🚗 Robot-Evite-Obstacle — Autonomous RC Car
 
 > Self-driving RC car with real-time obstacle avoidance
 
@@ -177,13 +163,9 @@ print(me.say_hello())
 
 [![Repo](https://img.shields.io/badge/GitHub-Robot--Evite--Obstacle-181717?style=for-the-badge&logo=github)](https://github.com/YehiaElkh/Robot-Evite-Obstacle)
 
-</details>
-
 ---
 
-<details>
-<summary><b>🏠 SmartSound-Monitor — IoT Ecosystem</b></summary>
-<br>
+### 🏠 SmartSound-Monitor — IoT Ecosystem
 
 > Complete IoT system for sound monitoring and smart environment automation
 
@@ -196,8 +178,6 @@ print(me.say_hello())
 **Tech stack:** `ESP32` · `HTTPS` · `Firebase` · `PlatformIO`
 
 [![Repo](https://img.shields.io/badge/GitHub-SmartSound--Monitor-181717?style=for-the-badge&logo=github)](https://github.com/YehiaElkh/SmartSound-Monitor)
-
-</details>
 
 ---
 
@@ -256,7 +236,6 @@ print(me.say_hello())
 
 </div>
 
-<!-- GitHub Trophies -->
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
@@ -269,16 +248,13 @@ print(me.say_hello())
 
 ## 🐍 Contribution Graph
 
-> **Setup :** Ajoute le GitHub Action ci-dessous pour générer le snake automatiquement.
-
 <div align="center">
 
-<!-- Une fois le workflow configuré, décommente cette ligne : -->
-<!-- ![snake gif](https://github.com/YehiaElkh/YehiaElkh/blob/output/github-contribution-grid-snake.svg) -->
-
-*🔧 [See setup instructions below ↓](#snake-setup)*
+![snake gif](https://github.com/YehiaElkh/YehiaElkh/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+> ⚙️ **Snake not showing?** You need to set up the GitHub Action below (one-time setup, takes 2 minutes).
 
 ---
 
@@ -343,21 +319,18 @@ Robotics & AI — Progress Tracker
 
 ---
 
-<!-- ═══════════════════════  SNAKE SETUP  ═══════════════════════ -->
+<!-- ═══════════════════════  SNAKE SETUP — INSTRUCTIONS  ═══════════════════════ -->
 
-## 🐍 Snake Setup <a name="snake-setup"></a>
+## ⚙️ Snake Animation — Setup (one-time)
 
-<details>
-<summary>Click to see how to enable the contribution snake animation</summary>
-
-**1. Create file:** `.github/workflows/snake.yml`
+**Step 1 — Create this file in your repo:** `.github/workflows/snake.yml`
 
 ```yaml
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -379,13 +352,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**2. After the first run**, uncomment this line in your README:
+**Step 2 — Run the workflow manually once:**
+Go to `Actions` tab → `Generate Snake Animation` → `Run workflow`
 
-```markdown
-![snake gif](https://github.com/YehiaElkh/YehiaElkh/blob/output/github-contribution-grid-snake.svg)
-```
-
-</details>
+**Step 3 — Done!** The snake image at the top of this section will appear automatically.
 
 ---
 
