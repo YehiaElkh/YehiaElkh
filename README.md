@@ -3,9 +3,6 @@
 <!-- ████████████████████████████████████████████████████████████ -->
 
 <!-- ═══════════════════════  HEADER BANNER  ═══════════════════════ -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0FF9,50:1D6AF0,100:58a6ff&height=220&section=header&text=Yehia%20Elkh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20IoT%20Engineer%20%7C%20ROS%202%20Developer%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18" width="100%"/>
-</div>
 
 <!-- ═══════════════════════  TYPING ANIMATION  ═══════════════════════ -->
 <div align="center">
