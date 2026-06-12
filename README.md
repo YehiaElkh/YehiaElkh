@@ -4,9 +4,7 @@
 
 <!-- ═══════════════════════  HEADER BANNER  ═══════════════════════ -->
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0FF9,50:1D6AF0,100:58a6ff&height=220&section=header&text=Yehia%20Elkh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20IoT%20Engineer%20%7C%20ROS%202%20Developer%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0FF9,50:1D6AF0,100:58a6ff&height=220&section=header&text=Yehia%20Elkh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20IoT%20Engineer%20%7C%20ROS%202%20Developer%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <!-- ═══════════════════════  TYPING ANIMATION  ═══════════════════════ -->
@@ -15,20 +13,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%A4%96+Junior+ROS+2+Developer;%F0%9F%8C%90+IoT+%26+Embedded+Systems+Engineer;%F0%9F%A7%A0+Exploring+AI+%2B+Robotics;%F0%9F%9A%80+Building+Autonomous+Systems+from+scratch;%F0%9F%93%8D+ENIAD+Berkane+%7C+ROC+4th+Year)](https://git.io/typing-svg)
 
 </div>
-
----
-
-<!-- ═══════════════════════  BADGES STATUT  ═══════════════════════ -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YehiaElkh&color=0A0FF9&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/YehiaElkh?style=flat-square&color=58a6ff&label=Followers)
-![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square&logo=handshake)
-![Student](https://img.shields.io/badge/Student-ENIAD%20Berkane-orange?style=flat-square&logo=graduation-cap)
-
-</div>
-
----
 
 <!-- ------------------------------------- -->
 # 💫 About Me:
