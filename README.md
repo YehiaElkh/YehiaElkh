@@ -20,7 +20,7 @@
 
 # 👋 About Me
 
-Hi, I'm **Yehia Elkh**.
+Hi, I'm **Yehia**.
 
 🎓 4th Year Engineering Student in **Robotics and Connected Objects (ROC)** at ENIAD Berkane.
 
@@ -29,14 +29,13 @@ Hi, I'm **Yehia Elkh**.
 💻 ROS 2 Developer focused on intelligent robotic applications.
 
 🌐 IoT & Embedded Systems Enthusiast.
-
-📍 Morocco 🇲🇦
-
 🔭 Interested in Autonomous Systems, Self-Driving Vehicles and Intelligent Robotics.
 
 🚗 Passionate about Autonomous Driving, Mobile Robotics and AI-powered Navigation.
 
 🧠 Exploring the integration of Computer Vision, SLAM and Reinforcement Learning for next-generation robotic systems.
+
+📍 Driouch, Nador, Morocco 🇲🇦
 
 ---
 
@@ -44,10 +43,10 @@ Hi, I'm **Yehia Elkh**.
 
 My objective is to become a Robotics Software Engineer specializing in:
 
+- Self-Driving Vehicles
+- Autonomous Navigation & path Planning
 - Autonomous Mobile Robots (AMR)
 - ROS 2 Development
-- Self-Driving Vehicles
-- Navigation & Path Planning
 - SLAM & Localization
 - Computer Vision
 - AI-Powered Robotics
@@ -58,7 +57,7 @@ My objective is to become a Robotics Software Engineer specializing in:
 
 # 🚧 Current Projects
 
-## 🤖 AMR-Y — Autonomous Mobile Robot
+## 🤖 ROS2 Learning — Autonomous Mobile Robot
 
 ### Objective
 
@@ -66,13 +65,9 @@ Design and deploy a fully autonomous mobile robot capable of mapping, localizati
 
 ### Features
 
-- SLAM Toolbox
-- Nav2 Navigation Stack
-- Autonomous Navigation
-- Obstacle Avoidance
-- Gazebo Simulation
-- RViz Visualization
-- ROS 2 Humble
+- ROS 2 Humble - Topic - Services - Actions - Parametres
+- SLAM Toolbox - Nav2 Navigation Stack - Autonomous Navigation
+- Obstacle Avoidance - Gazebo Simulation - RViz Visualization 
 
 ### Technologies
 
@@ -81,6 +76,8 @@ ROS 2 • Nav2 • Gazebo • RViz • Python • C++
 ### Status
 
 🔨 In Development
+
+[Open](https://github.com/YehiaElkh/ros2_yehia_learning)
 
 ---
 
@@ -92,11 +89,8 @@ Develop an AI-powered robot capable of detecting fire and dangerous situations i
 
 ### Features
 
-- YOLOv8 Inference
-- OpenCV Integration
-- MQTT Communication
-- Raspberry Pi Deployment
-- Remote Monitoring
+- YOLOv8 Inference - OpenCV Integration - MQTT Communication
+- Raspberry Pi Deployment - Remote Monitoring
 
 ### Technologies
 
@@ -105,6 +99,8 @@ YOLOv8 • OpenCV • MQTT • Raspberry Pi 5 • Python
 ### Status
 
 🔨 In Development
+
+[Open](https://github.com/YehiaElkh/PFA_Robotics_IoT)
 
 ---
 
@@ -116,18 +112,18 @@ Multi-Agent Clinical Orientation and Decision Support System.
 
 ### Features
 
-- Multi-Agent Architecture
-- FastAPI Backend
-- LangChain Integration
-- Intelligent Clinical Workflow
+- Multi-Agent Architecture - FastAPI Backend
+- LangChain Integration - Intelligent Clinical Workflow
 
 ### Technologies
 
-Python • FastAPI • LangChain
+Python • FastAPI • LangChain • LangGraph
 
 ### Status
 
 ✅ Completed
+
+[Open](https://github.com/YehiaElkh/Workflow-Multi-Agents-Orientation-Clinique-Simule)
 
 ---
 
@@ -156,8 +152,8 @@ Python • FastAPI • LangChain
 
 # 🔬 Research Interests
 
-- Autonomous Mobile Robots (AMR)
-- Self-Driving Vehicles
+- Self-Driving Vehicles Autonomous Mobile Robots 
+- Autonomous Mobile Robots
 - Autonomous Navigation
 - SLAM & Localization
 - Reinforcement Learning
@@ -194,27 +190,12 @@ My goal is to design intelligent systems capable of perceiving, understanding an
 
 # 🤖 Robotics Expertise
 
-✅ ROS 2 Development
-
-✅ Autonomous Navigation
-
-✅ SLAM & Localization
-
-✅ Nav2
-
-✅ Gazebo Simulation
-
-✅ RViz Visualization
-
-✅ TF2
-
-✅ Computer Vision
-
-✅ Embedded Systems
-
-✅ IoT Integration
-
-✅ AI for Robotics
+✅ ROS 2 Development ✅ Autonomous Navigation 
+✅ Autonomous Navigation ✅ SLAM & Localization
+✅ Nav2 ✅ Gazebo Simulation
+✅ RViz Visualization ✅ TF2
+✅ Computer Vision ✅ Embedded Systems
+✅ IoT Integration ✅ AI for Robotics
 
 ---
 
@@ -259,11 +240,11 @@ My goal is to design intelligent systems capable of perceiving, understanding an
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YehiaElkh&theme=tokyonight&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YehiaElkh&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YehiaElkh&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YehiaElkh&theme=tokyonight&show_icons=true&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YehiaElkh&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YehiaElkh&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -273,7 +254,7 @@ My goal is to design intelligent systems capable of perceiving, understanding an
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -282,12 +263,10 @@ My goal is to design intelligent systems capable of perceiving, understanding an
 # 🌐 Connect With Me
 
 <div align="center">
-
-💼 LinkedIn: www.linkedin.com/in/yahya-elkhoulati-535580331/
-
-💻 GitHub: github.com/YehiaElkh
-
-📧 Email: yahyaelkhoulati@ump.ac.ma
+  
+  I'm always interested in collaborating on robotics and IoT projects!
+  - 💼 LinkedIn: [yehia-elkh](https://www.linkedin.com/in/yahya-elkhoulati-535580331/)
+  - 📧 Email: yahyaelkhoulati@ump.ac.ma
 
 </div>
 
