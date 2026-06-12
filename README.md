@@ -5,14 +5,14 @@
 <!-- ═══════════════════════  HEADER BANNER  ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0FF9,50:1D6AF0,100:58a6ff&height=220&section=header&text=Yehia%20Elkh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20IoT%20Engineer%20%7C%20ROS%202%20Developer%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0FF9,50:1D6AF0,100:58a6ff&height=220&section=header&text=Yehia%20Elkh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20IoT%20Engineer%20%7C%20ROS%202%20Developer%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18)
 
 </div>
 
 <!-- ═══════════════════════  TYPING ANIMATION  ═══════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%A4%96+Junior+ROS+2+Developer;%F0%9F%8C%90+IoT+%26+Embedded+Systems+Engineer;%F0%9F%A7%A0+Exploring+AI+%2B+Robotics;%F0%9F%9A%80+Building+Autonomous+Systems+from+scratch;%F0%9F%93%8D+ENIAD+Berkane+%7C+ROC+4th+Year" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%A4%96+Junior+ROS+2+Developer;%F0%9F%8C%90+IoT+%26+Embedded+Systems+Engineer;%F0%9F%A7%A0+Exploring+AI+%2B+Robotics;%F0%9F%9A%80+Building+Autonomous+Systems+from+scratch;%F0%9F%93%8D+ENIAD+Berkane+%7C+ROC+4th+Year)](https://git.io/typing-svg)
 
 </div>
 
@@ -181,7 +181,7 @@ print(me.say_hello())
 
 ---
 
-<!-- ═══════════════════════  TECH STACK PROPRE  ═══════════════════════ -->
+<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 
 ## ⚙️ Tech Stack
 
@@ -225,20 +225,20 @@ print(me.say_hello())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YehiaElkh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehiaElkh&theme=tokyonight&hide_border=true&layout=compact"/>
+[![Yehia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YehiaElkh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)](https://github.com/YehiaElkh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YehiaElkh&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/YehiaElkh)
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=YehiaElkh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YehiaElkh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/YehiaElkh)
 
 </div>
 
@@ -250,7 +250,7 @@ print(me.say_hello())
 
 <div align="center">
 
-<img src="https://github.com/YehiaElkh/YehiaElkh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+[![Snake animation](https://github.com/YehiaElkh/YehiaElkh/blob/output/github-contribution-grid-snake.svg)](https://github.com/YehiaElkh)
 
 </div>
 
@@ -281,7 +281,7 @@ Robotics & AI — Progress Tracker
 
 ---
 
-<!-- ═══════════════════════  EXPÉRIENCE  ═══════════════════════ -->
+<!-- ═══════════════════════  EDUCATION  ═══════════════════════ -->
 
 ## 🎓 Education & Experience
 
@@ -362,7 +362,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1D6AF0,100:0A0FF9&height=120&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1D6AF0,100:0A0FF9&height=120&section=footer)
 
 </div>
 
