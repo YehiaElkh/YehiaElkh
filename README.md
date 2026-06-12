@@ -242,11 +242,9 @@ My goal is to design intelligent systems capable of perceiving, understanding an
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-  
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
+</p>
 
 ---
 
