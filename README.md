@@ -29,6 +29,7 @@ Hi, I'm **Yehia**.
 💻 ROS 2 Developer focused on intelligent robotic applications.
 
 🌐 IoT & Embedded Systems Enthusiast.
+
 🔭 Interested in Autonomous Systems, Self-Driving Vehicles and Intelligent Robotics.
 
 🚗 Passionate about Autonomous Driving, Mobile Robotics and AI-powered Navigation.
@@ -188,17 +189,6 @@ My goal is to design intelligent systems capable of perceiving, understanding an
 
 ---
 
-# 🤖 Robotics Expertise
-
-✅ ROS 2 Development ✅ Autonomous Navigation 
-✅ Autonomous Navigation ✅ SLAM & Localization
-✅ Nav2 ✅ Gazebo Simulation
-✅ RViz Visualization ✅ TF2
-✅ Computer Vision ✅ Embedded Systems
-✅ IoT Integration ✅ AI for Robotics
-
----
-
 # 💻 Technical Stack
 
 ## Robotics
@@ -240,11 +230,11 @@ My goal is to design intelligent systems capable of perceiving, understanding an
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YehiaElkh&theme=tokyonight&show_icons=true&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YehiaElkh&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YehiaElkh&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YehiaElkh&theme=tokyonight&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YehiaElkh&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YehiaElkh&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -254,7 +244,7 @@ My goal is to design intelligent systems capable of perceiving, understanding an
 
 <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -265,8 +255,8 @@ My goal is to design intelligent systems capable of perceiving, understanding an
 <div align="center">
   
   I'm always interested in collaborating on robotics and IoT projects!
-  - 💼 LinkedIn: [yehia-elkh](https://www.linkedin.com/in/yahya-elkhoulati-535580331/)
-  - 📧 Email: yahyaelkhoulati@ump.ac.ma
+  💼 LinkedIn: [yehia-elkh](https://www.linkedin.com/in/yahya-elkhoulati-535580331/)
+  📧 Email: yahyaelkhoulati@ump.ac.ma
 
 </div>
 
