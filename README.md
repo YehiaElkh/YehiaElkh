@@ -5,14 +5,14 @@
 <!-- ═══════════════════════  HEADER BANNER  ═══════════════════════ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0FF9,50:1D6AF0,100:58a6ff&height=220&section=header&text=Yehia%20Elkh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20IoT%20Engineer%20%7C%20ROS%202%20Developer%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0FF9,50:1D6AF0,100:58a6ff&height=220&section=header&text=Yehia%20Elkh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20IoT%20Engineer%20%7C%20ROS%202%20Developer%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <!-- ═══════════════════════  TYPING ANIMATION  ═══════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=🤖+Junior+ROS+2+Developer;🌐+IoT+%26+Embedded+Systems+Engineer;🧠+Exploring+AI+%2B+Robotics;🚀+Building+Autonomous+Systems+from+scratch;📍+ENIAD+Berkane+%7C+ROC+4th+Year)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%A4%96+Junior+ROS+2+Developer;%F0%9F%8C%90+IoT+%26+Embedded+Systems+Engineer;%F0%9F%A7%A0+Exploring+AI+%2B+Robotics;%F0%9F%9A%80+Building+Autonomous+Systems+from+scratch;%F0%9F%93%8D+ENIAD+Berkane+%7C+ROC+4th+Year" alt="Typing SVG" />
 
 </div>
 
@@ -232,13 +232,13 @@ print(me.say_hello())
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YehiaElkh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://nirzak-streak-stats.vercel.app/?user=YehiaElkh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -250,11 +250,11 @@ print(me.say_hello())
 
 <div align="center">
 
-![snake gif](https://github.com/YehiaElkh/YehiaElkh/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/YehiaElkh/YehiaElkh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
-> ⚙️ **Snake not showing?** You need to set up the GitHub Action below (one-time setup, takes 2 minutes).
+> ⚙️ **Snake not showing yet?** Follow the setup steps below — takes 2 minutes.
 
 ---
 
@@ -319,11 +319,11 @@ Robotics & AI — Progress Tracker
 
 ---
 
-<!-- ═══════════════════════  SNAKE SETUP — INSTRUCTIONS  ═══════════════════════ -->
+<!-- ═══════════════════════  SNAKE SETUP  ═══════════════════════ -->
 
-## ⚙️ Snake Animation — Setup (one-time)
+## ⚙️ Snake Animation Setup
 
-**Step 1 — Create this file in your repo:** `.github/workflows/snake.yml`
+**Step 1** — Create file `.github/workflows/snake.yml` in this repo:
 
 ```yaml
 name: Generate Snake Animation
@@ -352,10 +352,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Step 2 — Run the workflow manually once:**
-Go to `Actions` tab → `Generate Snake Animation` → `Run workflow`
+**Step 2** — Go to `Actions` tab → `Generate Snake Animation` → `Run workflow`
 
-**Step 3 — Done!** The snake image at the top of this section will appear automatically.
+**Step 3** — Done! The snake above will appear automatically after the first run.
 
 ---
 
@@ -363,7 +362,7 @@ Go to `Actions` tab → `Generate Snake Animation` → `Run workflow`
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1D6AF0,100:0A0FF9&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1D6AF0,100:0A0FF9&height=120&section=footer" width="100%"/>
 
 </div>
 
