@@ -1,4 +1,3 @@
-# <div align="center">🤖 Yehia Elkh</div>
 
 <div align="center">
 
@@ -32,7 +31,7 @@
 
 🌐 IoT & Embedded Systems Enthusiast.
 
-📍 Driouch, Morocco 🇲🇦
+📍 Driouch, Nador, Morocco 🇲🇦
 
 ---
 
@@ -59,9 +58,7 @@ I aim to become a Robotics Software Engineer specialized in:
 * RViz Visualization
 * Autonomous Navigation
 
-**Tech Stack:** ROS 2 • Nav2 • Gazebo • RViz • Python • C++
-
-🔨 In Progress
+**Tech Stack:** ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?style=for-the-badge\&logo=ros) • ![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?style=for-the-badge) • ![Nav2](https://img.shields.io/badge/Nav2-Navigation-blue?style=for-the-badge) • ![RViz](https://img.shields.io/badge/RViz-Visualization-blue?style=for-the-badge) • ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python) • ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
 
 ---
 
