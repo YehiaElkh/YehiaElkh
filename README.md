@@ -122,7 +122,7 @@ IoT ecosystem for sound monitoring and smart automation
 ![ROS2](https://img.shields.io/badge/ROS%202%20Humble-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-E36209?style=for-the-badge&logo=ros&logoColor=white)
 ![Nav2](https://img.shields.io/badge/Nav2-1D6AF0?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-Visualization-blue?style=for-the-badge)
 
 **💻 Languages**
 
@@ -137,11 +137,13 @@ IoT ecosystem for sound monitoring and smart automation
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
-**🧠 AI / ML**
+**🧠 AI & Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-red?style=for-the-badge)
 
 **🔧 DevOps**
 
@@ -149,6 +151,7 @@ IoT ecosystem for sound monitoring and smart automation
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 
 </div>
 
@@ -192,36 +195,6 @@ IoT ecosystem for sound monitoring and smart automation
 
 <img src="https://github.com/YehiaElkh/YehiaElkh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-> ⚙️ **To activate:** create `.github/workflows/snake.yml` (see below), go to **Actions → Generate Snake Animation → Run workflow**
-
-<details>
-<summary>📋 snake.yml — click to expand</summary>
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 </div>
 
