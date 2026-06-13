@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🤖+ROS+2+Developer;🚗+Autonomous+Systems+Enthusiast;🧠+AI+for+Robotics;🌐+IoT+and+Embedded+Systems+Engineer;🚀+Building+the+Future+of+Autonomous+Robots)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🤖+ROS+2+Developer;🚗+Autonomous+Systems+Enthusiast;🧠+AI+for+Robotics;🌐+IoT+and+Embedded+Systems+Engineer;🚀+Building+the+Future+of+Autonomous+Robots)](https://git.io/typing-svg)
 
 </div>
 
