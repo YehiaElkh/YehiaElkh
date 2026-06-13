@@ -74,10 +74,6 @@ Design and deploy a fully autonomous mobile robot capable of mapping, localizati
 
 ROS 2 • Nav2 • Gazebo • RViz • Python • C++
 
-### Status
-
-🔨 In Development
-
 [Open](https://github.com/YehiaElkh/ros2_yehia_learning)
 
 ---
@@ -97,10 +93,6 @@ Develop an AI-powered robot capable of detecting fire and dangerous situations i
 
 YOLOv8 • OpenCV • MQTT • Raspberry Pi 5 • Python
 
-### Status
-
-🔨 In Development
-
 [Open](https://github.com/YehiaElkh/PFA_Robotics_IoT)
 
 ---
@@ -119,10 +111,6 @@ Multi-Agent Clinical Orientation and Decision Support System.
 ### Technologies
 
 Python • FastAPI • LangChain • LangGraph
-
-### Status
-
-✅ Completed
 
 [Open](https://github.com/YehiaElkh/Workflow-Multi-Agents-Orientation-Clinique-Simule)
 
