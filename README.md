@@ -115,34 +115,36 @@ IoT ecosystem for sound monitoring and smart automation
 
 ## ⚙️ Tech Stack
 
-## Robotics
+## 🤖 Robotics
 
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?style=for-the-badge&logo=ros)
 ![Nav2](https://img.shields.io/badge/Nav2-Navigation-blue?style=for-the-badge)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?style=for-the-badge)
 ![RViz](https://img.shields.io/badge/RViz-Visualization-blue?style=for-the-badge)
 
-## Programming
+## 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## AI & Computer Vision
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## 🧠 AI & Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-red?style=for-the-badge)
 
-## IoT & Embedded
+## 🌐 IoT & Embedded
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge)
 
-## Tools
+## 🔧 Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
