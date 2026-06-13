@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0FF9,100:58a6ff&height=50&text=🤖+ROS+2+Dev+·+IoT+Engineer+·+Autonomous+Systems+·+AI+Robotics&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%" alt="subtitle"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🤖+ROS+2+Developer;🚗+Autonomous+Systems+Enthusiast;🧠+AI+for+Robotics;🌐+IoT+and+Embedded+Systems+Engineer;🚀+Building+the+Future+of+Autonomous+Robots)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,22 +25,23 @@
 
 ## 🤖 About Me
 
-```python
-class YehiaElkh:
-    name     = "Yahya Elkhoulati"
-    location = "Driouch, Nador, Morocco 🇲🇦"
-    school   = "ENIAD Berkane — Robotique & Objets Connectés (ROC), 4th Year"
-    email    = "yahyaelkhoulati@ump.ac.ma"
+Hi, I'm **Yehia**.
 
-    focus = [
-        "Autonomous Mobile Robots  →  ROS 2 · SLAM · Nav2",
-        "AI-Powered Robotics       →  YOLOv8 · PyTorch · OpenCV",
-        "IoT & Embedded Systems    →  ESP32 · MQTT · Raspberry Pi",
-        "Deep Reinforcement Learning → PPO · legged_gym (ETH Zurich)",
-    ]
+🎓 4th Year Engineering Student in **Robotics and Connected Objects (ROC)** at ENIAD Berkane.
 
-    philosophy = "Build everything from scratch. Document everything."
-```
+🤖 Passionate about Robotics, Artificial Intelligence and Autonomous Systems.
+
+💻 ROS 2 Developer focused on intelligent robotic applications.
+
+🌐 IoT & Embedded Systems Enthusiast.
+
+🔭 Interested in Autonomous Systems, Self-Driving Vehicles and Intelligent Robotics.
+
+🚗 Passionate about Autonomous Driving, Mobile Robotics and AI-powered Navigation.
+
+🧠 Exploring the integration of Computer Vision, SLAM and Reinforcement Learning for next-generation robotic systems.
+
+📍 Driouch, Nador, Morocco 🇲🇦
 
 ---
 
@@ -181,17 +182,6 @@ IoT ecosystem for sound monitoring and smart automation
  Deep RL (PPO / legged)    █████████░░░░░░░░░░░   45% 🔬
  Docker & DevOps           ████████░░░░░░░░░░░░   40% 📚
  CUDA / GPU Programming    ██████░░░░░░░░░░░░░░   30% 📚
-```
-
----
-
-## 🎓 Education
-
-```
-ENIAD Berkane  ·  2022 – Present
-├─ Robotique et Objets Connectés (ROC) — 4th Year Engineering
-├─ Supervisors : Dr. Mohamed Fartitchou · Pr. Sajida Mhammedi
-└─ Key projects : AMR-Y · FireBot · Clinical AI · Drone SITL · DQN TP6
 ```
 
 ---
