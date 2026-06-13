@@ -1,265 +1,232 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Yehia%20Elkh&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Robotics%20%7C%20ROS%202%20%7C%20AI%20%7C%20IoT%20Engineer&descSize=22&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0A0FF9,70:1D6AF0,100:58a6ff&height=240&section=header&text=Yehia%20Elkh&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20Engineer%20%7C%20ROS%202%20Developer%20%7C%20Autonomous%20Systems&descAlignY=60&descSize=19" width="100%"/>
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YehiaElkh&color=blue&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=🤖+Building+Autonomous+Mobile+Robots+with+ROS+2;🔥+Fire+Detection+AI+on+Raspberry+Pi+5;🧠+Deep+RL+%7C+PPO+%7C+Legged+Locomotion;🌐+IoT+Ecosystems+with+ESP32+%26+MQTT;📍+ENIAD+Berkane+%7C+ROC+4th+Year" alt="Typing SVG"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YehiaElkh&color=0A0FF9&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/YehiaElkh?style=flat-square&color=58a6ff&label=Followers)
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-3fb950?style=flat-square)
+![ENIAD ROC](https://img.shields.io/badge/ENIAD%20Berkane-ROC%204th%20Year-E36209?style=flat-square)
+
+</div>
+
+---
+
+## 🤖 About Me
+
+```python
+class YehiaElkh:
+    name     = "Yahya Elkhoulati"
+    location = "Driouch, Nador, Morocco 🇲🇦"
+    school   = "ENIAD Berkane — Robotique & Objets Connectés (ROC), 4th Year"
+    email    = "yahyaelkhoulati@ump.ac.ma"
+
+    focus = [
+        "Autonomous Mobile Robots  →  ROS 2 · SLAM · Nav2",
+        "AI-Powered Robotics       →  YOLOv8 · PyTorch · OpenCV",
+        "IoT & Embedded Systems    →  ESP32 · MQTT · Raspberry Pi",
+        "Deep Reinforcement Learning → PPO · legged_gym (ETH Zurich)",
+    ]
+
+    philosophy = "Build everything from scratch. Document everything."
+```
+
+---
+
+## 🚧 Currently Building
+
+| | Project | Stack | Status |
+|--|---------|-------|--------|
+| 🤖 | **AMR-Y** — Full autonomous mobile robot | ROS 2 · Gazebo · SLAM · Nav2 | 🔨 80% |
+| 🔥 | **FireBot** — Fire detection + MQTT alerts | RPi 5 · YOLOv8 · OpenCV · MQTT | 🔨 65% |
+| 🐾 | **Deep RL Quadruped** — PPO legged locomotion | PyTorch · IsaacGym · RTX 3060 | 🔬 45% |
+| 🏥 | **Clinical AI Workflow** — Multi-agent system | Python · LangChain · FastAPI | ✅ Done |
+
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐢 [turtle_navigation](https://github.com/YehiaElkh/turtle_navigation)
+Autonomous navigation on TurtleSim — **3 algorithms** implemented from scratch
+- 🧭 PID Controller
+- 🔁 Finite State Machine (FSM)
+- 🌀 Artificial Potential Fields (APF)
+
+`ROS 2` `Python` `Control Theory`
+![Stars](https://img.shields.io/github/stars/YehiaElkh/turtle_navigation?style=flat-square&color=yellow)
+
+</td>
+<td width="50%">
+
+### 🌀 [APF_Obstacle_Avoidance_ROS2](https://github.com/YehiaElkh/APF_Obstacle_Avoidance_ROS2)
+Real-time obstacle avoidance in Gazebo Classic using Potential Fields
+- 🔴 Repulsive forces from obstacles
+- 🟢 Attractive forces toward goal
+- ⚡ Real-time LaserScan processing
+
+`ROS 2` `Gazebo` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 [ros2_yehia_learning](https://github.com/YehiaElkh/ros2_yehia_learning)
+Complete ROS 2 fundamentals — C++ & Python side by side
+- 📡 Pub/Sub · Services · Actions
+- ⚙️ Parameters · Launch files
+- 🔄 TF2 · QoS · DDS
+
+`ROS 2` `C++` `Python`
+![Stars](https://img.shields.io/github/stars/YehiaElkh/ros2_yehia_learning?style=flat-square&color=yellow)
+
+</td>
+<td width="50%">
+
+### 🏠 [SmartSound-Monitor](https://github.com/YehiaElkh/SmartSound-Monitor)
+IoT ecosystem for sound monitoring and smart automation
+- 📊 Real-time sensor dashboard
+- 🌐 HTTPS remote control
+- 🔔 Alert system
+
+`ESP32` `HTTPS` `Firebase`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**🤖 Robotics**
+
+![ROS2](https://img.shields.io/badge/ROS%202%20Humble-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-E36209?style=for-the-badge&logo=ros&logoColor=white)
+![Nav2](https://img.shields.io/badge/Nav2-1D6AF0?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**🌐 IoT & Embedded**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+
+**🧠 AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**🔧 DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YehiaElkh&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehiaElkh&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🤖+ROS+2+Developer;🚗+Autonomous+Systems+Enthusiast;🧠+AI+for+Robotics;🌐+IoT+and+Embedded+Systems+Engineer;🚀+Building+the+Future+of+Autonomous+Robots)](https://git.io/typing-svg)
+<img src="https://nirzak-streak-stats.vercel.app/?user=YehiaElkh&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+## 🗺️ Roadmap 2025–2026
 
-Hi, I'm **Yehia**.
-
-🎓 4th Year Engineering Student in **Robotics and Connected Objects (ROC)** at ENIAD Berkane.
-
-🤖 Passionate about Robotics, Artificial Intelligence and Autonomous Systems.
-
-💻 ROS 2 Developer focused on intelligent robotic applications.
-
-🌐 IoT & Embedded Systems Enthusiast.
-
-🔭 Interested in Autonomous Systems, Self-Driving Vehicles and Intelligent Robotics.
-
-🚗 Passionate about Autonomous Driving, Mobile Robotics and AI-powered Navigation.
-
-🧠 Exploring the integration of Computer Vision, SLAM and Reinforcement Learning for next-generation robotic systems.
-
-📍 Driouch, Nador, Morocco 🇲🇦
+```
+ ROS 2 Core & Packages     ████████████████████  100% ✅
+ IoT Full Stack (ESP32)    ████████████████░░░░   80% ✅
+ Gazebo / RViz             ████████████████░░░░   80% 🔨
+ SLAM & Localization       ██████████████░░░░░░   70% 🔨
+ Computer Vision (YOLO)    ████████████░░░░░░░░   60% 🔨
+ Deep RL (PPO / legged)    █████████░░░░░░░░░░░   45% 🔬
+ Docker & DevOps           ████████░░░░░░░░░░░░   40% 📚
+ CUDA / GPU Programming    ██████░░░░░░░░░░░░░░   30% 📚
+```
 
 ---
 
-# 🎯 Career Goal
+## 🎓 Education
 
-My objective is to become a Robotics Software Engineer specializing in:
-
-- Self-Driving Vehicles
-- Autonomous Navigation & path Planning
-- Autonomous Mobile Robots (AMR)
-- ROS 2 Development
-- SLAM & Localization
-- Computer Vision
-- AI-Powered Robotics
-- Intelligent Transportation Systems
-- Embedded & IoT Systems
+```
+ENIAD Berkane  ·  2022 – Present
+├─ Robotique et Objets Connectés (ROC) — 4th Year Engineering
+├─ Supervisors : Dr. Mohamed Fartitchou · Pr. Sajida Mhammedi
+└─ Key projects : AMR-Y · FireBot · Clinical AI · Drone SITL · DQN TP6
+```
 
 ---
 
-# 🚧 Current Projects
-
-## 🤖 ROS2 Learning — Autonomous Mobile Robot
-
-### Objective
-
-Design and deploy a fully autonomous mobile robot capable of mapping, localization and navigation in unknown environments.
-
-### Features
-
-- ROS 2 Humble - Topic - Services - Actions - Parametres
-- SLAM Toolbox - Nav2 Navigation Stack - Autonomous Navigation
-- Obstacle Avoidance - Gazebo Simulation - RViz Visualization 
-
-### Technologies
-
-ROS 2 • Nav2 • Gazebo • RViz • Python • C++
-
-[Open](https://github.com/YehiaElkh/ros2_yehia_learning)
-
----
-
-## 🔥 FireBot — Intelligent Fire Detection Robot
-
-### Objective
-
-Develop an AI-powered robot capable of detecting fire and dangerous situations in real-time.
-
-### Features
-
-- YOLOv8 Inference - OpenCV Integration - MQTT Communication
-- Raspberry Pi Deployment - Remote Monitoring
-
-### Technologies
-
-YOLOv8 • OpenCV • MQTT • Raspberry Pi 5 • Python
-
-[Open](https://github.com/YehiaElkh/PFA_Robotics_IoT)
-
----
-
-## 🏥 Clinical AI Workflow
-
-### Objective
-
-Multi-Agent Clinical Orientation and Decision Support System.
-
-### Features
-
-- Multi-Agent Architecture - FastAPI Backend
-- LangChain Integration - Intelligent Clinical Workflow
-
-### Technologies
-
-Python • FastAPI • LangChain • LangGraph
-
-[Open](https://github.com/YehiaElkh/Workflow-Multi-Agents-Orientation-Clinique-Simule)
-
----
-
-# 🚀 Featured Repositories
-
-| Project | Description | Repository |
-|----------|------------|------------|
-| 🐢 Turtle Navigation | PID, FSM and Artificial Potential Field Navigation Algorithms | [Open](https://github.com/YehiaElkh/turtle_navigation) |
-| 📚 ROS2 Learning | Complete ROS 2 Learning Repository | [Open](https://github.com/YehiaElkh/ros2_yehia_learning) |
-| 🚗 Robot-Evite-Obstacle | Autonomous Obstacle Avoidance Robot | [Open](https://github.com/YehiaElkh/Robot-Evite-Obstacle) |
-| 🌐 SmartSound Monitor | ESP32 IoT Monitoring Platform | [Open](https://github.com/YehiaElkh) |
-| 🏥 Clinical AI Workflow | Multi-Agent Clinical Orientation System | [Open](https://github.com/Younlam9/Workflow-Multi-Agents-d-Orientation-Clinique-Simul-e) |
-
----
-
-# 🏆 Achievements
-
-- 🤖 Developed multiple ROS 2 robotic applications.
-- 🌐 Built IoT systems using ESP32 and MQTT.
-- 🧠 Integrated Computer Vision using YOLOv8 and OpenCV.
-- 📚 Created educational ROS 2 repositories.
-- 🚀 Currently developing an Autonomous Mobile Robot using Nav2 and SLAM.
-- 🏗️ Designed complete robotic systems from hardware to software.
-
----
-
-# 🔬 Research Interests
-
-- Self-Driving Vehicles Autonomous Mobile Robots 
-- Autonomous Mobile Robots
-- Autonomous Navigation
-- SLAM & Localization
-- Reinforcement Learning
-- Computer Vision
-- Multi-Agent Systems
-- Human-Robot Interaction
-- Intelligent Transportation Systems
-- AI for Robotics
-
----
-
-# 🚀 Engineering Philosophy
-
-I believe that the future of technology lies at the intersection of:
-
-- Robotics
-- Artificial Intelligence
-- Embedded Systems
-- Autonomous Decision Making
-
-My goal is to design intelligent systems capable of perceiving, understanding and interacting with the real world autonomously.
-
----
-
-# 🌍 Open Source Goals
-
-- Contribute to the ROS 2 ecosystem
-- Publish educational robotics content
-- Build open-source autonomous robots
-- Share reproducible robotics projects
-- Help students learn ROS 2 and Robotics
-
----
-
-# 💻 Technical Stack
-
-## Robotics
-
-![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?style=for-the-badge&logo=ros)
-![Nav2](https://img.shields.io/badge/Nav2-Navigation-blue?style=for-the-badge)
-![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?style=for-the-badge)
-![RViz](https://img.shields.io/badge/RViz-Visualization-blue?style=for-the-badge)
-
-## Programming
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-
-## AI & Computer Vision
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-red?style=for-the-badge)
-
-## IoT & Embedded
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge)
-
-## Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
-
----
-
-# 📊 GitHub Statistics
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YehiaElkh&theme=tokyonight&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YehiaElkh&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YehiaElkh&theme=tokyonight&hide_border=true)
+<img src="https://github.com/YehiaElkh/YehiaElkh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📫 Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YehiaElkh&theme=tokyonight&no-frame=true&row=1&column=6" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahya%20Elkhoulati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-elkhoulati-535580331/)
+[![Email](https://img.shields.io/badge/Email-yahyaelkhoulati%40ump.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyaelkhoulati@ump.ac.ma)
+[![GitHub](https://img.shields.io/badge/GitHub-YehiaElkh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YehiaElkh)
+[![Discord](https://img.shields.io/badge/Discord-Yehia__Elkh-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Yehia_Elkh)
+
+<br/>
+
+> *"The future belongs to intelligent autonomous systems capable of perceiving, learning and acting in the real world."*
 
 </div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-  
-  I'm always interested in collaborating on robotics and IoT projects!
-  
-  💼 LinkedIn: [YAHYA ELKHOULATI      ](https://www.linkedin.com/in/yahya-elkhoulati-535580331/)
-  
-  📧 Email: yahyaelkhoulati@ump.ac.ma
-
-</div>
-
----
-
-# 💭 Quote
-
-> "The future belongs to intelligent autonomous systems capable of perceiving, learning and acting in the real world."
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1D6AF0,100:0A0FF9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1D6AF0,100:0A0FF9&height=130&section=footer" width="100%"/>
 
 </div>
+
+<!-- Built with passion for robotics 🤖 — Yehia Elkh 2026 -->
