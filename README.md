@@ -25,7 +25,7 @@
 
 ## 🤖 About Me
 
-Hi, I'm **Yehia**.
+Hi, I'm **Yahia**.
 
 🎓 4th Year Engineering Student in **Robotics and Connected Objects (ROC)** at ENIAD Berkane.
 
