@@ -17,7 +17,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YehiaElkh&color=0A0FF9&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/YehiaElkh?style=flat-square&color=58a6ff&label=Followers)
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-3fb950?style=flat-square)
-![ENIAD ROC](https://img.shields.io/badge/ENIAD%20Berkane-ROC%204th%20Year-E36209?style=flat-square)
+![ENIAD ROC](https://img.shields.io/badge/ENIAD%20Berkane-ROC%205th%20Year-E36209?style=flat-square)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 Hi, I'm **Yahia**.
 
-🎓 4th Year Engineering Student in **Robotics and Connected Objects (ROC)** at ENIAD Berkane.
+🎓 5th Year Engineering Student in **Robotics and Connected Objects (ROC)** at ENIAD Berkane.
 
 🤖 Passionate about Robotics, Artificial Intelligence and Autonomous Systems.
 
@@ -42,74 +42,6 @@ Hi, I'm **Yahia**.
 🧠 Exploring the integration of Computer Vision, SLAM and Reinforcement Learning for next-generation robotic systems.
 
 📍 Driouch, Nador, Morocco 🇲🇦
-
----
-
-## 🚧 Currently Building
-
-| | Project | Stack | Status |
-|--|---------|-------|--------|
-| 🤖 | **AMR-Y** — Full autonomous mobile robot | ROS 2 · Gazebo · SLAM · Nav2 | 🔨 80% |
-| 🔥 | **FireBot** — Fire detection + MQTT alerts | RPi 5 · YOLOv8 · OpenCV · MQTT | 🔨 65% |
-| 🐾 | **Deep RL Quadruped** — PPO legged locomotion | PyTorch · IsaacGym · RTX 3060 | 🔬 45% |
-| 🏥 | **Clinical AI Workflow** — Multi-agent system | Python · LangChain · FastAPI | ✅ Done |
-
----
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐢 [turtle_navigation](https://github.com/YehiaElkh/turtle_navigation)
-Autonomous navigation on TurtleSim — **3 algorithms** implemented from scratch
-- 🧭 PID Controller
-- 🔁 Finite State Machine (FSM)
-- 🌀 Artificial Potential Fields (APF)
-
-`ROS 2` `Python` `Control Theory`
-![Stars](https://img.shields.io/github/stars/YehiaElkh/turtle_navigation?style=flat-square&color=yellow)
-
-</td>
-<td width="50%">
-
-### 🌀 [APF_Obstacle_Avoidance_ROS2](https://github.com/YehiaElkh/APF_Obstacle_Avoidance_ROS2)
-Real-time obstacle avoidance in Gazebo Classic using Potential Fields
-- 🔴 Repulsive forces from obstacles
-- 🟢 Attractive forces toward goal
-- ⚡ Real-time LaserScan processing
-
-`ROS 2` `Gazebo` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 [ros2_yehia_learning](https://github.com/YehiaElkh/ros2_yehia_learning)
-Complete ROS 2 fundamentals — C++ & Python side by side
-- 📡 Pub/Sub · Services · Actions
-- ⚙️ Parameters · Launch files
-- 🔄 TF2 · QoS · DDS
-
-`ROS 2` `C++` `Python`
-![Stars](https://img.shields.io/github/stars/YehiaElkh/ros2_yehia_learning?style=flat-square&color=yellow)
-
-</td>
-<td width="50%">
-
-### 🏠 [SmartSound-Monitor](https://github.com/YehiaElkh/SmartSound-Monitor)
-IoT ecosystem for sound monitoring and smart automation
-- 📊 Real-time sensor dashboard
-- 🌐 HTTPS remote control
-- 🔔 Alert system
-
-`ESP32` `HTTPS` `Firebase`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -215,21 +147,6 @@ IoT ecosystem for sound monitoring and smart automation
 
 ---
 
-## 🗺️ Roadmap 2025–2026
-
-```
- ROS 2 Core & Packages     ████████████████████  100% ✅
- IoT Full Stack (ESP32)    ████████████████░░░░   80% ✅
- Gazebo / RViz             ████████████████░░░░   80% 🔨
- SLAM & Localization       ██████████████░░░░░░   70% 🔨
- Computer Vision (YOLO)    ████████████░░░░░░░░   60% 🔨
- Deep RL (PPO / legged)    █████████░░░░░░░░░░░   45% 🔬
- Docker & DevOps           ████████░░░░░░░░░░░░   40% 📚
- CUDA / GPU Programming    ██████░░░░░░░░░░░░░░   30% 📚
-```
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -264,4 +181,4 @@ IoT ecosystem for sound monitoring and smart automation
 
 </div>
 
-<!-- Built with passion for robotics 🤖 — Yehia Elkh 2026 -->
+<!-- Built with passion for robotics 🤖 — Yahia Elkh 2026 -->
